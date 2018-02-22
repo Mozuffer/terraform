@@ -1,0 +1,4 @@
+*.privkey
+*.pub
+terraform.tfvars
+
